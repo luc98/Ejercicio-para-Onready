@@ -1,4 +1,4 @@
-# Ejercicio-para-Onready
+# Consigna
 Imaginemos una concesionaria de autos y motos.
 Crear un programa cuyo punto de entrada sea un main en donde, al ejecutarse, se visualiza
 lo siguiente por consola y se termina la ejecución:
